@@ -1,4 +1,6 @@
-Minimal webpage responsive design with HTML and CSS
+Minimal webpage responsive and functional design with HTML and CSS
+
+https://notnishant.github.io/responsiveHTMLCSSpage/
 
 
 ![Web capture_5-3-2023_131252_127 0 0 1](https://user-images.githubusercontent.com/54275471/222958905-0db1297b-6278-4f13-804a-33957a739e48.jpeg)
